@@ -1,4 +1,4 @@
-# eCommerce-Transcations
+
 # eCommerce Transactions Data Analysis and Modeling
 
 This repository contains all the code, reports, and deliverables for the **eCommerce Transactions Data Analysis Assignment**. The tasks include **Exploratory Data Analysis (EDA)**, building a **Lookalike Model**, and performing **Customer Segmentation/Clustering**.
@@ -43,9 +43,5 @@ The dataset consists of three files:
 2. **Products.csv**: Contains product information.
 3. **Transactions.csv**: Contains transaction history.
 
----
 
-## 🧑‍💻 How to Run the Notebooks
-1. Clone this repository:  
-   ```bash
-   git clone <repository_url>
+
